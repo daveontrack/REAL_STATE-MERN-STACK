@@ -1,23 +1,27 @@
 {
   "name": "realstate",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Real Estate Listings App",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.4"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
-    "eslint": "^9",
-    "eslint-config-next": "15.3.4",
-    "@eslint/eslintrc": "^3"
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.10.0",
+    "framer-motion": "^10.16.4",
+    "millify": "^6.1.0",
+    "next": "^15.3.4",
+    "nprogress": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0"
   }
 }
