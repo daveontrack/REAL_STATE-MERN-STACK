@@ -1,6 +1,6 @@
 
 
-# 🏡 Real Estate Listings App
+# 🏡 Real Estate App
 
 A modern and responsive **Real Estate Listings** application built with **Next.js 15**, **Chakra UI**, and **NProgress**.
 
@@ -67,7 +67,7 @@ real-estate-app/
 
 | Command          | Description                  |
 | ---------------- | ---------------------------- |
-| `npm run dev`    | Start the dev server         |
+| `npm run dev`    | Start the dev servers        |
 | `npm run build`  | Build the app for production |
 | `npm start`      | Start the production server  |
 | `npm run lint`   | Run ESLint for code linting  |
@@ -123,12 +123,6 @@ git push origin feature/YourAmazingFeature
 
 # 5. Open a Pull Request 🚀
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
